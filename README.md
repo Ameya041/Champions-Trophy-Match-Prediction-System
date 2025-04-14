@@ -56,7 +56,9 @@ MIT
 # Champions-Trophy-Match-Prediction-System
 Champions Trophy(Cricket) Match Prediction System Using Machine Learning
 
-## Overview
+
+```
+##  Overview
 This project provides a machine learning framework for predicting cricket match scores and outcomes in ICC Champions Trophy matches. It evaluates regression models (XGBoost, Random Forest) for score forecasting and ensemble classifiers for win probability estimation. The system processes 8,500+ ODI matches with 25+ dynamic features, achieving 78.9% prediction accuracy.
 
 ![System Architecture](docs/system_architecture.png)
